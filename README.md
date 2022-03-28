@@ -1,10 +1,8 @@
-###How to test my work ?
+### How to test my work ?
 You can try it on : https://replit.com/@alexandrealvare/boilerplate-medical-data-visualizer#medical_data_visualizer.py
 
-###What I did ?
+### What I did ?
 My work is about answering questions about medical data and plotting some Viz. For this, I used Pandas, Numpy and Seaborn.
-
-Assignment
 
 ### Assignment
 
